@@ -1,2 +1,0 @@
-du/dt = v
-dv/dt = 0.5 * lap(u)
