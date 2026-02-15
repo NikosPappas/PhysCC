@@ -21,7 +21,7 @@ Tested on Intel Core i5-1235U (10 Cores, 12 Threads).
 | :--- | :--- | :--- | :--- |
 | Classical Wave | AVX2 (256-bit) | 1.467 | Compute-Bound |
 | Quantum (TDSE) | De-interleaved SoA | 0.559 | Cache/Memory Bandwidth |
-| 3D Stencil | 7-point Laplacian | 0.210 | Memory Wall |
+
 
 
 
