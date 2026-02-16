@@ -32,3 +32,4 @@ Tested on Intel Core i5-1235U (10 Cores, 12 Threads).
 ### 1. Build the Compiler
 ```bash
 make clean && make
+./physcc --help   
